@@ -5,7 +5,7 @@ import { About } from "./pages/About"
 import { Home } from "./pages/Home"
 import { Navbar} from "./components/Navbar"
 
-//2330
+//2920
 
 function App() {
 return (
