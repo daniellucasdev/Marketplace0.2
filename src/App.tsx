@@ -7,6 +7,8 @@ import { Navbar} from "./components/Navbar"
 
 //2920
 
+//Erro em components/StoreItems
+
 function App() {
 return (
 <>
