@@ -28,6 +28,12 @@
       "name": "Cooler RGB",
       "price": 14000,
       "imgUrl": "/imgs/cooler.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hard Drive 1TB",
+      "price": 14000,
+      "imgUrl": "/imgs/hd1.jpg"
     }
 
 
