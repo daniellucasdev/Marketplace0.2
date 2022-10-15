@@ -1,27 +1,35 @@
 [
     {
       "id": 1,
-      "name": "Book",
+      "name": "B560 Motherboard",
       "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "imgUrl": "/imgs/motherboard.jpg"
     },
     {
       "id": 2,
-      "name": "Computer",
+      "name": "120GB SSD",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "/imgs/ssd120.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
+      "name": "250GB M2 SSD",
       "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "imgUrl": "/imgs/ssdm2.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
+      "name": "Geforce RTX3070",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "imgUrl": "/imgs/rtx3070.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cooler RGB",
+      "price": 14000,
+      "imgUrl": "/imgs/cooler.jpg"
     }
+
+
   ]
   
