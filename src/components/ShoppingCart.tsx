@@ -4,7 +4,6 @@ import { formatCurrency } from "../utilities/formatCurrency"
 import { CartItem } from "./CartItem"
 import storeItems from "../data/items.json"
 
-
 type ShoppingCartProps = {
   isOpen: boolean
 }
