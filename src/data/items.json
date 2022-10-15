@@ -2,37 +2,37 @@
     {
       "id": 1,
       "name": "B560 Motherboard",
-      "price": 10.99,
+      "price": 919.99,
       "imgUrl": "/imgs/motherboard.jpg"
     },
     {
       "id": 2,
       "name": "120GB SSD",
-      "price": 1199,
+      "price": 135.99,
       "imgUrl": "/imgs/ssd120.jpg"
     },
     {
       "id": 3,
       "name": "250GB M2 SSD",
-      "price": 1.05,
+      "price": 199.50,
       "imgUrl": "/imgs/ssdm2.jpg"
     },
     {
       "id": 4,
       "name": "Geforce RTX3070",
-      "price": 14000,
+      "price": 2799.99,
       "imgUrl": "/imgs/rtx3070.jpg"
     },
     {
       "id": 5,
       "name": "Cooler RGB",
-      "price": 14000,
+      "price": 14.99,
       "imgUrl": "/imgs/cooler.jpg"
     },
     {
       "id": 6,
       "name": "Hard Drive 1TB",
-      "price": 14000,
+      "price": 249.99,
       "imgUrl": "/imgs/hd1.jpg"
     }
 
